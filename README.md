@@ -36,7 +36,9 @@ I always review and carry out all tasks or assignments with determination.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student;Backend+%26%26+Systems+Developer;Linux+%2B+Neovim+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarxJf&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <p align="center">
   <picture>
