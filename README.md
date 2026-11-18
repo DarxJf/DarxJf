@@ -36,6 +36,16 @@ I always review and carry out all tasks or assignments with determination.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student;Backend+%26%26+Systems+Developer;Linux+%2B+Neovim+Enthusiast" alt="Typing SVG" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarxJf&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarxJf/DarxJf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarxJf/DarxJf/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/DarxJf/DarxJf/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## Contact
 
 <p align="center">
@@ -48,7 +58,7 @@ I always review and carry out all tasks or assignments with determination.
 **DarxJf/DarxJf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github-readme-stats.vercel.app/api?username=DarxJf&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
 Here are some ideas to get you started:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarxJf&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
